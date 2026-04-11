@@ -175,3 +175,9 @@ Railsは学習してきた技術であり、効率よくWebアプリを開発で
 
 - 不安な点  
 検索処理のパフォーマンスや、データ設計が適切にできるか不安がある。
+
+
+## 画面遷移図
+
+Figma：https://www.figma.com/design/kgAXjR3q4hdmigF62xgXdz/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%EF%BC%88%E5%86%B7%E8%94%B5%E5%BA%AB%E3%82%A2%E3%83%97%E3%83%AA%EF%BC%89?node-id=0-1&p=f&t=N4EbY4BytNcyrkQA-0
+
