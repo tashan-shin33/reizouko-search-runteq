@@ -173,7 +173,7 @@ https://www.figma.com/design/kgAXjR3q4hdmigF62xgXdz/%E7%94%BB%E9%9D%A2%E9%81%B7%
 
 ## ER図
 ![ER図]冷蔵庫検索.drawio.png
-https://i.gyazo.com/236f41ddf8eedb3621abd6b2860f3a98.png
+https://i.gyazo.com/fb22d6eaa0d7c0315f832142f7cddeb7.png
 
 編集用URL：
 https://app.diagrams.net/#W8624A6A00533F921%2F8624A6A00533F921!se2b48ecfa32444659d4f313ed7bfbdbf#%7B%22pageId%22%3A%22AO5_IEUbFW0bwzmyksAb%22%7D
